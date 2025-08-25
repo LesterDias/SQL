@@ -68,7 +68,6 @@ Here's the breakdown of the top data analyst jobs in 2023:
 
 -Job Title Variety: There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
-![Top Paying Roles](practice\1_top_paying_roles.png)
 <img width="2728" height="1431" alt="1_top_paying_roles" src="https://github.com/user-attachments/assets/f1c46dbd-2626-4b5a-a216-0a609a8af61a" />
 
 
@@ -110,7 +109,8 @@ ORDER BY
     salary_year_avg DESC
 
 ```
-![Top Paying Roles](practice\2_top_paying_roles_skills.png)
+<img width="1782" height="1123" alt="2_top_paying_roles_skills" src="https://github.com/user-attachments/assets/39ff5d3e-4ff3-4295-b352-6d84437a396e" />
+
 
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
@@ -140,7 +140,8 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 
 -Programming and Visualization Tools like Python, Tableau, and Power BI are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
-![Top Paying Roles](practice\3.png)
+<img width="285" height="267" alt="3" src="https://github.com/user-attachments/assets/9ae962b8-4b21-4d64-ac7c-ebd314fb2b9d" />
+
 
 *Table of the demand for the top 5 skills in data analyst job postings*
 
@@ -171,7 +172,8 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 -Software Development & Deployment Proficiency: Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
 
 -Cloud Computing Expertise: Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
-![Top Paying Roles](practice\4.png)
+<img width="330" height="477" alt="4" src="https://github.com/user-attachments/assets/45490645-97fa-41f5-abc5-4977c7550471" />
+
 
 *Table of the average salary for the top 10 paying skills for data analysts*
 
@@ -225,7 +227,8 @@ ORDER BY
     demand_count DESC
 LIMIT 25 
 ```
-![Top Paying Roles](practice\5.png)
+<img width="557" height="472" alt="5" src="https://github.com/user-attachments/assets/ca95d665-cf15-48e1-a2d9-26a5e51b9853" />
+
 
 *Table of the most optimal skills for data analyst sorted by salary*
 
