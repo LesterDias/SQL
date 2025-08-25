@@ -69,6 +69,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 -Job Title Variety: There's a high diversity in job titles, from Data Analyst to Director of Analytics, reflecting varied roles and specializations within data analytics.
 
 ![Top Paying Roles](practice\1_top_paying_roles.png)
+
 *Bar graph visualizing the salary for the top 10 salaries for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 2. Skills for Top Paying Jobs
@@ -107,6 +108,7 @@ ORDER BY
 
 ```
 ![Top Paying Roles](practice\2_top_paying_roles_skills.png)
+
 *Bar graph visualizing the count of skills for the top 10 paying jobs for data analysts; ChatGPT generated this graph from my SQL query results*
 
 ### 3. In-Demand Skills for Data Analysts
@@ -136,6 +138,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 -Programming and Visualization Tools like Python, Tableau, and Power BI are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
 ![Top Paying Roles](practice\3.png)
+
 *Table of the demand for the top 5 skills in data analyst job postings*
 
 ### 4. Skills Based on Salary
@@ -166,6 +169,7 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 
 -Cloud Computing Expertise: Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
 ![Top Paying Roles](practice\4.png)
+
 *Table of the average salary for the top 10 paying skills for data analysts*
 
 ### 5. Most Optimal Skills to Learn
@@ -219,6 +223,7 @@ ORDER BY
 LIMIT 25 
 ```
 ![Top Paying Roles](practice\5.png)
+
 *Table of the most optimal skills for data analyst sorted by salary*
 
 Here's a breakdown of the most optimal skills for Data Analysts in 2023:
