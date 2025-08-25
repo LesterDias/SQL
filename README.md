@@ -109,6 +109,7 @@ ORDER BY
     salary_year_avg DESC
 
 ```
+
 <img width="1782" height="1123" alt="2_top_paying_roles_skills" src="https://github.com/user-attachments/assets/39ff5d3e-4ff3-4295-b352-6d84437a396e" />
 
 
@@ -139,6 +140,7 @@ Here's the breakdown of the most demanded skills for data analysts in 2023
 -SQL and Excel remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
 
 -Programming and Visualization Tools like Python, Tableau, and Power BI are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
+
 
 <img width="285" height="267" alt="3" src="https://github.com/user-attachments/assets/9ae962b8-4b21-4d64-ac7c-ebd314fb2b9d" />
 
@@ -172,6 +174,8 @@ Here's a breakdown of the results for top paying skills for Data Analysts:
 -Software Development & Deployment Proficiency: Knowledge in development and deployment tools (GitLab, Kubernetes, Airflow) indicates a lucrative crossover between data analysis and engineering, with a premium on skills that facilitate automation and efficient data pipeline management.
 
 -Cloud Computing Expertise: Familiarity with cloud and data engineering tools (Elasticsearch, Databricks, GCP) underscores the growing importance of cloud-based analytics environments, suggesting that cloud proficiency significantly boosts earning potential in data analytics.
+
+
 <img width="330" height="477" alt="4" src="https://github.com/user-attachments/assets/45490645-97fa-41f5-abc5-4977c7550471" />
 
 
@@ -227,6 +231,8 @@ ORDER BY
     demand_count DESC
 LIMIT 25 
 ```
+
+
 <img width="557" height="472" alt="5" src="https://github.com/user-attachments/assets/ca95d665-cf15-48e1-a2d9-26a5e51b9853" />
 
 
